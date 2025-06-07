@@ -1,0 +1,21 @@
+body {
+    background-color: #f0f4f8;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.calculator {
+    max-width: 400px;
+    background-color: #ffffff;
+}
+
+button {
+    height: 60px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 12px;
+}
+
+#display {
+    height: 60px;
+    border-radius: 12px;
+}
